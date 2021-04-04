@@ -2,9 +2,9 @@
 
 
 
-YouTube Channel   : https://youtu.be/rqhLpFKBBxA
-telegram group    : https://t.me/halildeniz33
-instagram channel : https://www.instagram.com/halil.deniz33/ 
+- YouTube Channel   : https://youtu.be/rqhLpFKBBxA
+- telegram group    : https://t.me/halildeniz33
+- instagram channel : https://www.instagram.com/halil.deniz33/ 
 
 ```
 ┌──(root💀kali)-[/home/kali/github]
